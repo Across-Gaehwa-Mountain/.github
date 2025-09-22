@@ -1,3 +1,4 @@
+<img width="754" height="285" alt="image" src="https://github.com/user-attachments/assets/6f9f0496-e775-4cd4-9b26-4b8bd407b8ca" />
 
 
 ## 히든사수 : 어떻게 만들게 되었나요? 
