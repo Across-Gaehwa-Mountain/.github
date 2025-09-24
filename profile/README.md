@@ -1,7 +1,10 @@
-<img width="754" height="285" alt="image" src="https://github.com/user-attachments/assets/6f9f0496-e775-4cd4-9b26-4b8bd407b8ca" />
+<p align="center"><img width="450" height="400" alt="Gemini_Generated_Image_d6u1e3d6u1e3d6u1" src="https://github.com/user-attachments/assets/f77d3180-1a3b-450f-bdaa-4568da4fddd8" />
+</p>
+<p align="center"><img width="300" height="150" alt="스크린샷 2025-09-25 오전 1 28 51" src="https://github.com/user-attachments/assets/e41714dd-970f-4357-9f55-03f0929f17db" />
+</p>
 
+# 히든사수 : 어떻게 만들게 되었나요? 
 
-## 히든사수 : 어떻게 만들게 되었나요? 
 
 **정말 많은 1인 업무자/주니어/프리랜서**들이 공감할 수 있는 현실적인 니즈예요.
 
@@ -14,7 +17,9 @@
 > 하지만 질문할 동료도 없고, 지금 질문해도 될 분위기가 아닐 때, **‘내가 잘 이해했는지’ 스스로 확인하고 싶고, 보조적인 피드백이 필요**함.
 >
 
-### **[1] 핵심 기능 (Core Features)**
+<br></br>
+
+## **[1] 핵심 기능 (Core Features)**
 
 "히든 사수"는 단순 요약을 넘어, 사용자의 성장을 돕는 체계적인 피드백 루프를 제공합니다.
 
@@ -25,7 +30,9 @@
 | **핵심 질문 생성 (Question Generation)** | 문서의 핵심을 꿰뚫는 날카로운 질문들을 생성하여, 사용자가 더 깊이 생각하고 놓친 부분을 스스로 깨닫도록 유도합니다. |
 | **다음 할 일 제안 (Action Item Suggestion)** | 분석 결과를 바탕으로 "놓친 개념 다시 학습하기", "관련 자료 찾아보기" 등 구체적인 **실행 가능한 To-Do 리스트**를 제안하여 다음 스텝으로 이끌어줍니다. |
 
-### **[2] 차별점 (Differentiators)**
+<br></br>
+
+## **[2] 차별점 (Differentiators)**
 
 | 차별점 | 내용 |
 | --- | --- |
@@ -34,7 +41,9 @@
 | **실행 중심의 피드백** | "이해도가 70점입니다"에서 끝나는 것이 아니라, "그래서 **무엇을 해야 하는지**"에 대한 명확한 다음 액션 플랜(To-Do)을 제시하여 배움을 행동으로 연결합니다. |
 | **안전한 기업용 설계** | **Azure의 강력한 보안** 위에서 동작하여, 민감한 회사 내부 문서도 안전하게 분석하고 이력을 관리할 수 있습니다. |
 
-### **[3] 활용 방안 (Use Cases)**
+<br></br>
+
+## **[3] 활용 방안 (Use Cases)**
 
 | 사용자 | 활용 시나리오 |
 | --- | --- |
