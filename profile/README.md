@@ -1,4 +1,5 @@
-<p align="center"><img width="450" height="400" alt="Gemini_Generated_Image_d6u1e3d6u1e3d6u1" src="https://github.com/user-attachments/assets/f77d3180-1a3b-450f-bdaa-4568da4fddd8" />
+<p>     </p><p align="center"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9c3544bc-51b4-4cce-ace7-22ca80b0668f" />
+
 </p>
 <p align="center"><img width="300" height="150" alt="스크린샷 2025-09-25 오전 1 28 51" src="https://github.com/user-attachments/assets/e41714dd-970f-4357-9f55-03f0929f17db" />
 </p>
